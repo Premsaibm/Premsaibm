@@ -1,21 +1,20 @@
 # Hi, I'm Avadhutha Premsai 👋
 
 🎯 Aspiring Data Analyst
-📊 Skilled in SQL, Excel, Power BI, and Python
+📊 Skilled in SQL, Excel, Power BI, Python
 ☁️ Google Cloud & AWS Certified
 
 ---
-
 ## 🚀 About Me
 
-I am passionate about turning raw data into meaningful insights. I have worked on real-world projects involving data cleaning, visualization, and dashboard creation.
+I am passionate about turning raw data into meaningful insights. I enjoy working with real-world datasets, cleaning data, and building dashboards to support decision-making.
 
 ---
 
 ## 🛠️ Skills
 
 * SQL
-* Excel (Advanced)
+* Excel (Advanced, Power Query)
 * Power BI
 * Python (Pandas, NumPy)
 * BigQuery
@@ -27,23 +26,43 @@ I am passionate about turning raw data into meaningful insights. I have worked o
 
 ### 🔹 Zepto Inventory Analysis Dashboard
 
-* Built using Excel & Power Query
+📊 Excel + Power Query
+
+* Built interactive dashboard for stock tracking
 * Identified high-demand products and stock-outs
-
-### 🔹 Road Accident Analysis
-
-* SQL + Power BI
-* Analyzed 3000+ records to find key risk factors
-
-### 🔹 Image Steganography
-
-* Python project for secure data encoding
 
 ---
 
-## 📫 Contact Me
+### 🔹 Road Accident Analysis Dashboard
 
-📧 Email:avaduthapremsai@gmail.com
+📊 SQL + Power BI
+
+* Analyzed 3000+ records
+* Identified key risk factors and trends
+
+---
+
+### 🔹 Image Steganography
+
+🐍 Python + NumPy
+
+* Developed secure data encoding system
+
+---
+
+## 📜 Certifications
+
+* Google Cloud Data Analytics Internship
+* AWS Cloud Internship
+* SQL (HackerRank)
+* Deloitte Data Analytics Simulation
+* British Airways Data Science Simulation
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: [avaduthapremsai@gmail.com](mailto:avaduthapremsai@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/avadhutha-premsai-6290a2281
 
 ---
